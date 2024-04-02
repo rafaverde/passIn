@@ -33,7 +33,7 @@ export function AttendeeList() {
               >
                 <input
                   type="checkbox"
-                  className="size-4 bg-black/20 rounded border border-white/20"
+                  className="size-4 bg-black/20 rounded border border-white/20 focus-visible:outline-none checked:text-orange-400 focus:ring-0 focus:ring-offset-0"
                 />
               </th>
               <th className="py-3 px-4 text-sm font-semibold text-left">
@@ -61,7 +61,7 @@ export function AttendeeList() {
                   <td className="py-3 px-4 text-sm text-zinc-300">
                     <input
                       type="checkbox"
-                      className="size-4 bg-black/20 rounded border border-white/20"
+                      className="size-4 bg-black/20 rounded border border-white/20 focus-visible:outline-none checked:text-orange-400 focus:ring-0 focus:ring-offset-0"
                     />
                   </td>
                   <td className="py-3 px-4 text-sm text-zinc-300">12341234</td>

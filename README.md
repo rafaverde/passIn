@@ -27,4 +27,4 @@ Foi um muito interessante para aprender mais sobre React e que me trouxe conheci
 
 ## 🚀 Sobre mim
 
-Sou estudando de desenvolvimento e atualmente meu foco é em Front end, com tecnologias como HTML5, CSS, React e Node.
+Sou estudante de desenvolvimento e atualmente meu foco é em Front end, com tecnologias como HTML5, CSS, React e Node.

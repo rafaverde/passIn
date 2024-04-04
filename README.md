@@ -25,6 +25,9 @@ Foi um muito interessante para aprender mais sobre React e que me trouxe conheci
 - Search em tempo real
 - Visualização de dados
 
+## Backend da Aplicação
+O backend foi desenvolvido em uma trilha específica de node.js, que foi disponibilizada pela @rocketseat-education e você pode conferir no link >> ![Link Backend](https://github.com/rocketseat-education/nlw-unite-nodejs)
+
 ## 🚀 Sobre mim
 
 Sou estudante de desenvolvimento e atualmente meu foco é em Front end, com tecnologias como HTML5, CSS, React e Node.
